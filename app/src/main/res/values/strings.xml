@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">BudgetBuddy</string>
+    <string name="navigation_drawer_open">Open navigation drawer </string>
+    <string name="navigation_drawer_close">Close navigation drawer </string>
+    <string name="budget_buddy">Budget Buddy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="terms_and_conditions_text">
+        <![CDATA[
+        \n\n
+        \t\t\t\t\t\t\t\t\t\t\t\t Terms and Conditions\n\n\n
+  Please read these terms and conditions carefully before using our Android application. By registering and using our app, you agree to be bound by these terms and conditions. If you do not agree with any part of these terms, please do not proceed with the registration process.
+\n
+
+        \n\n1. Account Registration:
+
+
+        \n\t\t 1.1 You must be at least 18 years old to
+        \n\t\t\t\t\t\t create an account and use our app.
+        \n\t\t 1.2 You agree to provide accurate and
+        \n\t\t\t\t\t\t complete information during the
+        \n\t\t\t\t\t\t registration process.
+
+
+        \n\n 2. App Usage:\n
+           \t\t 2.1 Our app is intended for personal use
+     \n\t\t\t\t\t\t only. You may not use the app for any
+     \n\t\t\t\t\t\t commercial or illegal purposes.
+         \n\t\t 2.2 You are responsible for maintaining
+     \n\t\t\t\t\t\t the confidentiality of your account
+     \n\t\t\t\t\t\t information and for all activities that
+     \n\t\t\t\t\t\t occur under your account.
+         \n\t\t 2.3 You must not share your account
+     \n\t\t\t\t\t\t credentials with anyone else.
+
+
+       \n\n 3. Content:
+         \n\t\t 3.1 You acknowledge that all content
+     \n\t\t\t\t\t\t provided through the app, including
+     \n\t\t\t\t\t\t not limited to text, images, videos, and
+     \n\t\t\t\t\t\t audio, is the sole responsibility of the
+     \n\t\t\t\t\t\t person or entity that provides the
+     \n\t\t\t\t\t\t content.
+         \n\t\t 3.2 You agree not to upload, post, or
+     \n\t\t\t\t\t\t transmit any content that is unlawful,
+     \n\t\t\t\t\t\t harmful, threatening,
+     \n\t\t\t\t\t\t abusive, harassing, defamatory,
+     \n\t\t\t\t\t\t obscene, or otherwise objectionable.
+
+
+       \n \n 4. Intellectual Property:
+         \n\t\t 4.1 The app and all its original content,
+     \n\t\t\t\t\t\t features, and functionality are the
+     \n\t\t\t\t\t\t exclusive property of [TKT Developers]
+     \n\t\t\t\t\t\t and its licensors.
+             \n\t\t 4.2 You may not reproduce, distribute,
+     \n\t\t\t\t\t\t modify, create derivative works of,
+     \n\t\t\t\t\t\t publicly display, publicly perform,
+     \n\t\t\t\t\t\t republish, download, store, or
+     \n\t\t\t\t\t\t transmit any of the material on our
+     \n\t\t\t\t\t\t app without our prior written consent.
+
+
+       \n\n  5. Privacy Policy:
+         \n\t\t 5.1 Your privacy is important to us.
+     \n\t\t\t\t\t\t Please review our Privacy Policy
+     \n\t\t\t\t\t\t [provide a link to your Privacy Policy]
+     \n\t\t\t\t\t\t to understand how we collect, use,
+     \n\t\t\t\t\t\t and disclose information about you.
+
+       \n\n 6. Termination:
+         \n\t\t 6.1 We reserve the right to terminate
+     \n\t\t\t\t\t\t or suspend your account and access
+     \n\t\t\t\t\t\t to the app without prior notice if
+     \n\t\t\t\t\t\t you violate these terms and
+     \n\t\t\t\t\t\t conditions.
+         \n\t\t 6.2 You may terminate your account at
+     \n\t\t\t\t\t\t any time by contacting us
+     \n\t\t\t\t\t\t [contact].
+
+
+      \n\n 7. Changes to Terms and Conditions:
+         \n\t\t 7.1 We may revise these terms and
+     \n\t\t\t\t\t\t conditions at any time without
+     \n\t\t\t\t\t\t prior notice.
+         \n\t\t 7.2 By continuing to use the app
+     \n\t\t\t\t\t\t after any revisions become effective,
+     \n\t\t\t\t\t\t you agree to be bound by the updated
+     \n\t\t\t\t\t\t terms and conditions.
+
+
+     \n\n 8. Governing Law:
+        \n\t\t8.1 These terms and conditions shall
+   \n\t\t\t\t\t\t be governed by and construed in
+   \n\t\t\t\t\t\t accordance
+   \n\t\t\t\t\t\t with the laws of Philippines.
+
+
+     \n\n If you have any questions or concerns regarding
+   these terms and conditions, please contact us at
+   [provide contact details].
+        ]]>
+    </string>
+
+    <string name="agree_to_terms">I agree to the Terms and Conditions</string>
+    <string name="register">Register</string>
+
+
+
+
+</resources>
